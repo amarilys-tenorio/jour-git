@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(250, 158, 148);
+}
+
+table {
+    border-style: hidden; 
+    border-color:rgb(0, 0, 0);
+    width:100%;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    }
+
+td {
+    text-align: right;
+    height: 50px;
+    }
